@@ -147,3 +147,6 @@ def main():
         print(f"✓  Repo is valid ({len(seen_ids)} mods across {len(repo.get('games', []))} game(s))")
         if warnings:
             sys.exit(0)
+
+if __name__ == "__main__":
+    main()
