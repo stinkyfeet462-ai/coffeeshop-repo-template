@@ -1,0 +1,15 @@
+{
+  "id": "my-custom-mk8-mod",
+  "name": "My Mario Kart 8 Mod",
+  "author": "YourName",
+  "version": "1.0.0",
+  "description": "A cool custom mod for Mario Kart 8 on Wii U.",
+  "gameTitleIds": [
+    "000500001010EC00",
+    "000500001010ED00",
+    "000500001010EB00"
+  ],
+  "download": "https://github.com/your-username/your-repo/raw/main/mods/my-cool-mod/mod-files.zip",
+  "type": "mod",
+  "tags": ["skin", "texture"]
+}
